@@ -21,6 +21,10 @@ Microsoft Press Workflow Step by Step Chapter 1 working copy: a VS 2012 C# conso
 
 Open `Workflow Step by Step/Chapter 1/PCodeFlow/PCodeFlow.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2012, .NET Framework 3.0
+
 ## Attribution and provenance
 
 - **Assembly copyright:** Copyright ©  2013
